@@ -1,5 +1,5 @@
 {
-  "name": "devnext",
+  "name": "Portifolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wesleyMirand/Devnext.js.git"
+    "url": "git+https://github.com/wesleyMirand/Portifolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wesleyMirand/Devnext.js/issues"
+    "url": "https://github.com/wesleyMirand/Portifolio/issues"
   },
-  "homepage": "https://github.com/wesleyMirand/Devnext.js#readme",
+  "homepage": "https://github.com/wesleyMirand/Portifolio.js#readme",
   "dependencies": {
     "next": "^12.2.3",
     "react": "^18.2.0",
