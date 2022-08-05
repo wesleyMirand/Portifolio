@@ -6,6 +6,7 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
   border-bottom: 1px solid white;
+  background-color:  darkgoldenrod;
 `;
 
 export const Content = styled.div`
@@ -52,13 +53,14 @@ export const Ancora = styled.a`
   transition: 0.3s;
   
   &.active {
-    background-color: black;
+    background-color: green;
   }
 
   @media (min-width: 560px) {
     align-items: center;
     display: flex;
     padding: 0px 10px;
+   
   }
 `;
 
@@ -82,6 +84,7 @@ export const CloseSidebar = styled.div`
   
   @media (max-width: 560px) {
     display: flex;
+  
   }
 `;
 

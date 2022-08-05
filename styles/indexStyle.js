@@ -72,14 +72,14 @@ export const LinkProjects = styled.button`
 `;
 
 export const Logo = styled.div`
-  width: 50%;
+  width: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
 
   img {
-    width: 25rem;
-    height: 25rem;
+    width: 20rem;
+    height: 20rem;
   }
 
   @media (max-width: 760px) {
